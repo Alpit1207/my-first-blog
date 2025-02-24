@@ -1,0 +1,7 @@
+for blog website superuser
+
+username:blogadmin
+email address : blogadmin@example.com
+password : 0*BLOGADMIN*0
+password(again) : 0*BLOGADMIN*0
+    
